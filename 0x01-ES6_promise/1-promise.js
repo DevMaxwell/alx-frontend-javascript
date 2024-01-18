@@ -1,6 +1,6 @@
 export default function (boolean) {
   return new Promise((resolve, reject) => {
-      const object = {
+    const object = {
       status: 200,
       body: 'Success',
     };
